@@ -30,7 +30,7 @@ courses:
  
   - title: Random Forest & XGBoost
     level: intermediate
-    completed: false
-    score: ~   # null value
+    completed: true
+    score: 92.5
  
-notes: ~   # null value
+notes: "Completed the Transaction Risk Scoring challenge using Random Forest."

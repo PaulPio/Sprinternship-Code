@@ -43,10 +43,10 @@
 - **Completed:** Yes
 - **Score:** 88.0
 
-### 🔲 Random Forest & XGBoost
+### ✅ Random Forest & XGBoost
 - **Level:** Intermediate
-- **Completed:** No
-- **Score:** *Not yet available*
+- **Completed:** Yes
+- **Score:** 92.5
 
 ---
 
